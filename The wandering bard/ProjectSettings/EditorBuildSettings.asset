@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/TitleScreen.unity
+    guid: c1d12a4b9bbb8c7479bcf462814ef5b6
+  - enabled: 1
+    path: Assets/Scenes/MainGame.unity
+    guid: e34c82cf9693201479ead987caa9dcd7
+  - enabled: 1
+    path: Assets/Scenes/MiniGame.unity
+    guid: dc21936eeb514ca44a358023639714a0
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 9e7be553448fa2546aea5752021cbcf7,
+      type: 2}
